@@ -1,0 +1,7 @@
+{
+    "outputWorkPath" : "./Work.txt",
+    "outputFailedPath" : "./Failed.txt",
+    "outputLogined" : "./logined.txt",
+    "version":"1.8",
+    "ip":"mc.hypixel.net"
+}
